@@ -66,6 +66,7 @@ input{
     margin-left: 42px;
     font-size: 14px;
   cursor: pointer;  
+  color: black;
 }
 #but:hover{
     background-color: rgba(128, 128, 128, 0.651);
