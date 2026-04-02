@@ -19,8 +19,8 @@ body{
 }
 #container{
     background-color: rgba(255, 255, 255, 0.733);
-    min-height: 400px;
-    min-width: 250px;
+    min-height: 430px;
+    min-width: 260px;
     padding: 0px;
     border-radius: 20px;
     display: flex;
@@ -31,7 +31,7 @@ body{
    
 }
 img{
-    width: 120px;
+    width: 130px;
     
 }
 #foto{
@@ -39,7 +39,7 @@ img{
     justify-content: center;
     margin-bottom: 30px;
     background-color: aliceblue;
-    width: 250px;
+    width: 300px;
     margin-top: 0%;
     border-radius: 20px 20px 0px 0px;
     align-items: center;
@@ -58,6 +58,7 @@ input{
    margin-right: 20px;
     padding: 5px;
     border-radius: 8px;
+    font-size: 16px;
 }
 #but{
     width: 60%;
@@ -74,7 +75,8 @@ input{
 form{
     display: flex;
     flex-direction: column;
-
+    justify-content: center;
+    align-items: center;
 }
 a{
     color: rgb(49, 47, 47);
